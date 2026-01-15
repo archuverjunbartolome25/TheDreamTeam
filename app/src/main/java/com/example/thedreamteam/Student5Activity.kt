@@ -21,7 +21,7 @@ class Student5Activity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            Student1Screen()
+            Student5Screen()
         }
     }
 }
