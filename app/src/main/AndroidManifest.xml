@@ -15,7 +15,7 @@
         <activity android:name=".Student2Activity" />
         <activity android:name=".Student3Activity" />
         <activity android:name=".Student4Activity" />
-        <activity android:name=".Student5Activity" />s
+        <activity android:name=".Student5Activity" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
